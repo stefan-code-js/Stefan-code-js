@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-My name is Adrian Stefan =============================================== 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Adrian Stefan 
+----------------- 
 Front-End Developer
 -------------------  
 Adrian is a versatile individual with a unique blend of talents. As a front-end developer, they have honed their skills through Meta courses, gaining deep expertise in modern web technologies. Alongside their tech career, Adrian is also a chef with a passion for culinary arts, further enriched by their connection to the prestigious EHL (École Hôtelière de Lausanne). With roots in the beautiful Côte d'Azur, Adrian combines creativity and technical skills in both the digital and culinary worlds, making them a dynamic and multifaceted professional.  * 🌍  I'm based in Cannes * ✉️  You can contact me at [Badea.adrian.stefan1@gmail.com](mailto:Badea.adrian.stefan1@gmail.com) * 🧠  I'm learning Front-End Developing at Meta
